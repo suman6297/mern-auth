@@ -1,0 +1,36 @@
+form{
+    /* background-color: aqua; */
+    align-items: center;
+    text-align: center;
+    
+}
+input{
+    padding-left:20px ;
+    padding-right:20px ;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    font-size: 15px;
+    border-color: orange;
+    /* color: red; */
+background-color: yellow;
+margin: 5px;
+}
+h1{
+ font-size: 40px; 
+ /* color:cornsilk;   */
+}
+button{
+padding-left: 40px;
+padding-right: 40px;
+padding-top: 20px;
+padding-bottom: 20px;
+border-radius: 30px;
+cursor: pointer;
+color: yellow;
+background-color: red;
+font-size: 20px;
+}
+button:hover{
+    background-color: yellow;
+    color: red;
+}
